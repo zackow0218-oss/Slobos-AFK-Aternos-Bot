@@ -1,13 +1,13 @@
 {
   "name": "bot6",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "DrDonutt",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "TheBlockSMP-wjf6.aternos.me"
-    "port": 45469,
+    "ip": "SkySMP-esrb.aternos.me"
+    "port": 26516,
     "version": "",
     "try-creative": false
   },
